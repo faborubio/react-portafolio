@@ -17,11 +17,11 @@ body {
 }
 
 .dashboard {
-  margin-top: 200px;
+  margin-top: 20px;
   margin-left: 200px;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 880px) {
   body {
     overflow: visible;
   }
